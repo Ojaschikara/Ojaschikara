@@ -1,3 +1,6 @@
+![Black and White Simple Art Director LinkedIn Banner](https://github.com/user-attachments/assets/f90ec2fd-2474-485c-b63d-932c9d035015)
+
+
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h1 align="center">Hi 👋, I'm Ojas Chikara</h1>
