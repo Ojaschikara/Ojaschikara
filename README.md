@@ -9,11 +9,6 @@
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
-[![](https://visitcount.itsvg.in/api?id=Ojaschikara&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
-
-
  <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 <br>
 
