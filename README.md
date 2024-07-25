@@ -24,7 +24,7 @@
 <br><br>
 👨‍💻 Know more about me <a href="https://portfolio-eta-blond-76.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>
-⚡ How to reach me <a href="mailto:uttammaneofficial@gmail.com" style="color:rgb(250, 111, 50);">uttammaneofficial@gmail.com</a>
+⚡ How to reach me <a href="mailto:ojaschikara@gmail.com" style="color:rgb(250, 111, 50);">ojaschikara@gmail.com</a>
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
