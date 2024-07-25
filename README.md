@@ -5,12 +5,13 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=Ojaschikara&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 
- <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 <br>
 
 🤓 Always learning new things.
