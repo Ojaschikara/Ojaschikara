@@ -15,9 +15,9 @@
 🤓 Always learning new things.
 <br>
 <br>
-🤔 Check Out my <a href="https://drive.google.com/file/d/1boEjDYbzgHnGzbi5iqwrRwPONQ8UyI7q/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
+🤔 Check Out my <a href="https://drive.google.com/file/d/19qXf_nMTZCv0ZDgjZykUWG-vH368Tveu/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
-👨‍💻 Know more about me <a href="https://portfolio-eta-blond-76.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
+👨‍💻 Know more about me <a href="https://ojas-portfolio-a578.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>
 ⚡ How to reach me <a href="mailto:ojaschikara@gmail.com" style="color:rgb(250, 111, 50);">ojaschikara@gmail.com</a>
 
