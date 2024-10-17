@@ -15,7 +15,7 @@
 🤓 Always learning new things.
 <br>
 <br>
-🤔 Check Out my <a href="https://drive.google.com/file/d/16Z0o-_2jW3nmSkCaoAHucPC7SWSHdpgP/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
+🤔 Check Out my <a href="https://drive.google.com/file/d/1IOoTJJ7bfBKwAu8IWg-w76XdDgA5R6cS/view?usp=sharing" style="color: rgb(211, 28, 255);">Resume</a>
 <br><br>
 👨‍💻 Know more about me <a href="https://ojas-portfolio-a578.vercel.app/" style="color: rgb(250, 111, 50);">Portfolio</a>
 <br><br>
